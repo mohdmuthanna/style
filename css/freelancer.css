@@ -595,6 +595,17 @@ body {
 }
 
 .footer-name a:hover{
-  color: #A0DAFF;
+  color: #Fff;
   text-decoration: none;
+  text-shadow: 0 0 15px #F7CDF6;
+}
+
+.navigate{
+  color: #5EA7F1;
+
+}
+.navigate:hover{
+  color: #Fff;
+  text-decoration: none;
+  text-shadow: 0 0 15px #F7CDF6;
 }
