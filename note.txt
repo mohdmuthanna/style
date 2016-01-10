@@ -1,0 +1,28 @@
+old
+#18bc9c
+rgba(24,188,156,.9)
+
+new
+#962595
+rgba(150, 37, 149, 0.44);
+
+Star
+/* content: "\f005";
+
+.navbar-default, .navbar-inverse {
+    background-color: rebeccapurple;
+
+body {
+    background-color: #F7CDF6;
+يتوفر لدينا كل ما يخص الاطفل حديثي الولادة من شامبو وبودرة جسم وحفاظات
+وحليب اطفال ومميات واسرة والعاب وملابس من ماركات ومناشئ مختلفة تلبي احتياجاتكم
+
+تتوفر لدينا تشكيلة من الملابس الرجالية والنسائية وملابس الأطفال والتي تتميز بجودة فاخرة
+واسعار تناسب الجميع
+
+github
+
+git add -A
+git commit -m "Major changes, add: cover photo, map, ..."
+git push
+git status
