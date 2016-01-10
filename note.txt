@@ -23,6 +23,9 @@ body {
 github
 
 git add -A
-git commit -m "Major changes, add: cover photo, map, ..."
+git commit -m "fix cover padding problem, fix google map"
+git push
+
+git push --set-upstream origin gh-pages
 git push
 git status
